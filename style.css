@@ -339,7 +339,7 @@ h1 {
   .coverpage h1 {
     position: absolute;
     font-size: 80px;
-    top: 280px;
+    top: 200px;
     left: 10px;
   }
 
@@ -411,7 +411,7 @@ h1 {
     padding: 0;
 
     font-size: 22px;
-    margin: 20px 10px;
+    margin: 20px 10px 0;
   }
 
   .types img {
